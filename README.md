@@ -24,3 +24,7 @@ Aplikasi ini dibuat menggunakan Flutter dengan desain yang responsif dan mudah d
 1. Jalankan flutter run di terminal
 
 ## Demo
+https://github.com/user-attachments/assets/9b9a19a0-c284-46a3-9fb9-ce6ac98aa297
+
+## Identitas
+Arifzha Reski ; XI RPL 2 ; 03 ; SMKN 1 BANTUL
