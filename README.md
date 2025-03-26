@@ -1,17 +1,26 @@
-# zizii
+# KALKULATOR
 
-A new Flutter project.
+## Deskripsi
+Kalkulator adalah sebuah aplikasi yang memungkinkan pengguna melakukan perhitungan matematika. Aplikasi ini memiliki beberapa fitur, yaitu:
 
-## Getting Started
+- Operasi matematika dasar (+, -, ×, ÷)
+- Riwayat perhitungan
+- Profil pengguna
+Aplikasi ini dibuat menggunakan Flutter dengan desain yang responsif dan mudah digunakan.
 
-This project is a starting point for a Flutter application.
+## Software yang digunakan
 
-A few resources to get you started if this is your first Flutter project:
+- VS CODE
+- Flutter
+- Browser
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Cara instalasi
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# kalkulator_app" 
+1. Install flutter
+2. Clone repositori ini ke komputer
+   git clone https://github.com/zhareskii/kalkulator_app.git cd repo-kalkulator 3.Jalankan perintah untuk mengunduh dependency: flutter pub get
+
+## Cara menjalankan
+1. Jalankan flutter run di terminal
+
+## Demo
